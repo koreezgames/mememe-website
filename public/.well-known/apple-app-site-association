@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.koreez.mememe",
-                "paths": [ "*" ]
+               "appID": "U6AWP9MT9B.com.koreez.mememe",
+               "paths": ["*"]
             }
         ]
     }
